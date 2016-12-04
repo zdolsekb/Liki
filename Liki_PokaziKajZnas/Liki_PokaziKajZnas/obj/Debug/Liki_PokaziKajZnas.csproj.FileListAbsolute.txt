@@ -9,3 +9,6 @@ c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_Poka
 c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.pdb
 c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki.dll
 c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki.pdb
+C:\Users\Blaz\Documents\GitHub\Liki\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki_PokaziKajZnas.exe.config
+C:\Users\Blaz\Documents\GitHub\Liki\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.exe
+C:\Users\Blaz\Documents\GitHub\Liki\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.pdb

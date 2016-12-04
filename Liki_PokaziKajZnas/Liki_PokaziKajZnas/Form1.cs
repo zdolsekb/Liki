@@ -12,6 +12,7 @@ namespace Liki_PokaziKajZnas
 {
     public partial class Form1 : Form
     {
+        //test komentar
         Kvadrat kv;
         Pravokotnik p;
         Paralelogram pa;
