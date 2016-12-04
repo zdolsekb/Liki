@@ -1,0 +1,11 @@
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki_PokaziKajZnas.exe.config
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.csprojResolveAssemblyReference.cache
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.Form1.resources
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.Properties.Resources.resources
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.csproj.GenerateResource.Cache
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki_PokaziKajZnas.exe
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki_PokaziKajZnas.pdb
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.exe
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\obj\Debug\Liki_PokaziKajZnas.pdb
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki.dll
+c:\users\blaz\documents\visual studio 2015\Projects\Liki_PokaziKajZnas\Liki_PokaziKajZnas\bin\Debug\Liki.pdb
